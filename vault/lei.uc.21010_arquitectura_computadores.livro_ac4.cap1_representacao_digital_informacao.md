@@ -18,7 +18,7 @@ Usar o algoritmo da divisão sucessiva por 2, recolhe-se no final os restos
 Pode-se usar o algoritmo com qualquer outra base além da 2
 
 pag 7
-![](/assets/images/2020-10-06-15-04-21.png)
+![pag 7](/assets/images/2020-10-06-15-04-21.png)
 
 Ex: 26 em base 10 para base 2
 Dividir sucessivamente por 2, até o resultado ser 0
@@ -32,8 +32,8 @@ Represente os seguintes numeros em base 2
 
 33 base 10
 R: 100001
-![](/assets/images/2020-10-06-15-12-20.png)
+![33 em base 2](/assets/images/2020-10-06-15-12-20.png)
 
 162 base 10
 R: 10100010
-![](/assets/images/2020-10-06-15-12-31.png)
+![162 em base 2](/assets/images/2020-10-06-15-12-31.png)
