@@ -11,7 +11,6 @@ stub: false
 parent: null
 children:
   - 06d4f195-ee2b-45b9-999e-b320d07cc7f8
-  - 06d4f195-ee2b-45b9-999e-b320d07cc7f8
 hpath: root
 permalink: /
 ---
